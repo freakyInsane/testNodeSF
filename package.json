@@ -1,0 +1,13 @@
+{
+  "name": "testNodeSf",
+  "version": "0.0.0",
+  "description": "test Project to see how Node.js is connecting with Salesforce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": "",
+  "author": "Vlad Petrishin",
+  "license": "BSD"
+}
