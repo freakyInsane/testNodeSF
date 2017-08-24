@@ -7,6 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "express": "~4.15.4",
+    "jade": "*",
+    "jsforce": "^1.8.0",
+    "restler": "~3.4.0"
+  },
   "repository": "",
   "author": "Vlad Petrishin",
   "license": "BSD"
